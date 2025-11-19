@@ -4,6 +4,7 @@ This project provides an interactive web dashboard for visualizing property fore
 
 <img src="images/Screenshot.png" alt="Image of App" width="400"/>
 
+
 ## Features
 
 - **Automated Data Fetching:** A Go script downloads the latest foreclosure data and formats it into a clean CSV file.
