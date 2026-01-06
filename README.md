@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally.
 Prerequisites
 - Go (version 1.18 or newer)
 
-- Python (version 3.8 or newer)
+- Python (version 3.8 to 3.11)
 
 Installation Steps
 
